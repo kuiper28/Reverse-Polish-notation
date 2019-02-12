@@ -1,0 +1,6 @@
+
+ This program calculates the value of a given formula 
+ in reverse polish notation.
+
+ The formula which value we want to calculate is 
+ introduced as an input from keyboard.
